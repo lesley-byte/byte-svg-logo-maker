@@ -1,0 +1,16 @@
+{
+  "name": "byte-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A node.js command-line application that takes user input to generate a logo and save it as an SVG file.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
