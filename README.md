@@ -6,7 +6,7 @@ A node.js command-line application that takes user input to generate a logo and 
 
 ## Screenshot
 
-![Screenshot of the application in action](assets\images\screenshot.png)
+![Screenshot of the application in action](assets/images/screenshot.png)
 
 ## Table of Contents
 
