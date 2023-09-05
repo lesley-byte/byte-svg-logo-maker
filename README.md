@@ -2,7 +2,9 @@
 
 # byte-svg-logo-maker
 
-A node.js command-line application that takes user input to generate a logo and save it as an SVG file.
+A node.js command-line application that takes user input to generate a logo and saves it as an SVG file in a dist folder.
+
+### [Link to video of application in action](https://drive.google.com/open?id=1AMFcY_MTLI-MHWWYKvKtNuE6elN4Q9V_)
 
 ## Screenshot
 
