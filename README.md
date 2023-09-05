@@ -9,6 +9,7 @@ A node.js command-line application that takes user input to generate a logo and 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Links](#links)
 - [Tests](#tests)
 - [Contributing](#contributing)
 - [License](#license)
@@ -43,6 +44,10 @@ A node.js command-line application that takes user input to generate a logo and 
 - Add custom text up to three characters.
 - Specify colors using either color keywords or hexadecimal values.
 
+## Links
+
+- [Link to GitHub Pages website that showcases an example svg logo](https://lesley-byte.github.io/byte-svg-logo-maker/)
+
 ## Tests
 
 1. Run the tests
@@ -63,4 +68,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License.
