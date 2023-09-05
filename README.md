@@ -4,6 +4,10 @@
 
 A node.js command-line application that takes user input to generate a logo and save it as an SVG file.
 
+## Screenshot
+
+![Screenshot of the application in action](assets\images\screenshot.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -47,6 +51,7 @@ A node.js command-line application that takes user input to generate a logo and 
 ## Links
 
 - [Link to GitHub Pages website that showcases an example svg logo](https://lesley-byte.github.io/byte-svg-logo-maker/)
+- [Link to video of application in action](https://drive.google.com/open?id=1AMFcY_MTLI-MHWWYKvKtNuE6elN4Q9V_)
 
 ## Tests
 

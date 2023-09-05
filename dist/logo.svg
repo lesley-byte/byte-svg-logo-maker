@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-<circle cx="150" cy="100" r="50" fill="cyan" />
-<text x="150" y="100" fill="blue" text-anchor="middle" dominant-baseline="central">sea</text>
+<polygon points="150, 18 244, 182 56, 182" fill="orange" />
+<text x="150" y="100" fill="red" text-anchor="middle" dominant-baseline="central">blu</text>
 </svg>
